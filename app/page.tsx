@@ -237,7 +237,7 @@ export default function BogoNinjaLanding() {
           <div className="relative overflow-hidden">
             {/* Mobile + Desktop Combined */}
             <div className="flex w-max animate-marquee gap-6">
-              {[...Array(2)].flatMap(() => [1, 2, 3, 4, 5, 6, 7, 8]).map((i, idx) => (
+              {[...Array(2)].flatMap(() => [1, 2, 3, 4, 5, 6, 7, 8, 9]).map((i, idx) => (
                 <div
                   key={idx}
                   className="min-w-[150px] flex-shrink-0 flex items-center justify-center p-4 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors h-[150px]"
