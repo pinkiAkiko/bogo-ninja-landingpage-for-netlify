@@ -244,7 +244,7 @@ export default function BogoNinjaLanding() {
                 >
                   <div className="h-[100px] w-full flex items-center justify-center">
                     <Image
-                      src={`/resto_logo_2_0${i}.png`}
+                      src={`/resto_logo_1_0${i}.png`}
                       alt={`Restaurant Partner ${i}`}
                       width={140}
                       height={0}
